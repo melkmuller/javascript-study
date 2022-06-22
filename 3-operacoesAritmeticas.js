@@ -3,6 +3,8 @@ console.log(2+2)
 console.log(10+8*2)
 console.log("ano" + 2020) // A soma não sabe que são números, pois você pode estar querendo fazer uma concatenação
 console.log("10" / "2") // Quando dividimos dois números que estão em string o JS entende como número e faz a operação
+console.log("Ricardo" / 2) // Retorna NaN 'not a number'
+console.log("7" / "2")
 console.log("*********************")
 
 console.log("Conversao de Tipos");
